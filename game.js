@@ -9,7 +9,7 @@ window.onload = function() {
     var w = document.getElementById('canvas').offsetWidth;
     var h = document.getElementById('canvas').offsetHeight;
     var terrainImageLoaded = false,
-      pokeballImageLoaded = false,
+      pokeballImageLoaded = false, 
       playerImageLoaded = false;
 
     var objectSizes = 30;
